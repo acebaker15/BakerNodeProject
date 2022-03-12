@@ -1,0 +1,24 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acebaker15/BakerNodeProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acebaker15/BakerNodeProject/issues"
+  },
+  "homepage": "https://github.com/acebaker15/BakerNodeProject#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
